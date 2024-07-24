@@ -44,4 +44,4 @@ This script is provided for educational purposes. The Stable Diffusion model is 
 
 ## Author
 
-[Your Name]
+Rohit Kumar
